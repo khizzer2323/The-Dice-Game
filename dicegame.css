@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color:grey;
+}
+h2{
+    font-size:4rem;
+    color:white;
+    
+    padding-top:1%;
+    font-family: 'Rubik Burned', cursive;
+}
+h3{
+    color:white;
+    display:inline;
+    font-size:2rem;
+    font-family: 'Rubik Burned', curs;
+    margin-left:5%;
+}
+.again{
+    font-size:3rem;
+    
+}   
